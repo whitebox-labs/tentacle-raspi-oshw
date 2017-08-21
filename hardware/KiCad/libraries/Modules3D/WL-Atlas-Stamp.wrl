@@ -1,0 +1,770 @@
+#VRML V2.0 utf8
+
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,2,1,3,-1]
+coord Coordinate { point [1.500 -3.992 3.307,-1.500 -3.992 3.307,1.500 -3.992 -0.000,-1.500 -3.992 -0.000]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,2,1,3,-1,1,0,4,-1,2,3,5,-1,4,6,5,-1,5,6,7,-1,8,9,10,-1,9,11,10,-1,12,11,13,-1,11,9,13,-1,12,13,14,-1,10,14,15,-1,8,10,15,-1,14,13,15,-1,8,15,2,-1,7,8,2,-1,5,7,2,-1,4,0,13,-1,6,4,13,-1,9,6,13,-1]
+coord Coordinate { point [1.500 -3.008 3.307,1.315 -3.185 3.307,1.500 -3.992 3.307,1.315 -3.815 3.307,0.685 -3.185 3.307,0.685 -3.815 3.307,0.315 -3.185 3.307,0.315 -3.815 3.307,-0.315 -3.815 3.307,-0.315 -3.185 3.307,-0.685 -3.815 3.307,-0.685 -3.185 3.307,-1.315 -3.185 3.307,-1.500 -3.008 3.307,-1.315 -3.815 3.307,-1.500 -3.992 3.307]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,4,5,-1,6,0,2,-1,7,3,0,-1,7,0,6,-1,7,4,3,-1]
+coord Coordinate { point [-1.500 -3.795 0.197,-1.500 -3.795 -0.000,-1.500 -3.992 -0.000,-1.500 -3.205 0.197,-1.500 -3.008 -0.000,-1.500 -3.205 -0.000,-1.500 -3.992 3.307,-1.500 -3.008 3.307]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [1.500 -3.795 -0.000,1.500 -3.992 -0.000,-1.500 -3.795 -0.000,-1.500 -3.992 -0.000]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1,4,5,2,-1,4,2,1,-1,6,4,7,-1,6,5,4,-1]
+coord Coordinate { point [1.500 -3.992 -0.000,1.500 -3.795 0.197,1.500 -3.992 3.307,1.500 -3.795 -0.000,1.500 -3.205 0.197,1.500 -3.008 3.307,1.500 -3.008 -0.000,1.500 -3.205 -0.000]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-1.157 -3.343 3.150,-0.843 -3.343 3.150,-0.685 -3.185 3.307,-1.315 -3.185 3.307]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [-0.843 -3.657 3.150,-0.685 -3.815 3.307,-0.843 -3.343 3.150,-0.685 -3.185 3.307]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-1.315 -3.815 3.307,-0.685 -3.815 3.307,-0.843 -3.657 3.150,-1.157 -3.657 3.150]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [-1.315 -3.815 3.307,-1.157 -3.657 3.150,-1.315 -3.185 3.307,-1.157 -3.343 3.150]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [-0.315 -3.815 3.307,-0.157 -3.657 3.150,-0.315 -3.185 3.307,-0.157 -3.343 3.150]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-0.315 -3.185 3.307,0.157 -3.343 3.150,0.315 -3.185 3.307,-0.157 -3.343 3.150]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [0.157 -3.657 3.150,0.315 -3.815 3.307,0.157 -3.343 3.150,0.315 -3.185 3.307]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-0.315 -3.815 3.307,0.315 -3.815 3.307,0.157 -3.657 3.150,-0.157 -3.657 3.150]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [0.685 -3.815 3.307,0.843 -3.657 3.150,0.685 -3.185 3.307,0.843 -3.343 3.150]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [0.843 -3.343 3.150,1.157 -3.343 3.150,1.315 -3.185 3.307,0.685 -3.185 3.307]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [1.157 -3.657 3.150,1.315 -3.815 3.307,1.157 -3.343 3.150,1.315 -3.185 3.307]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [0.843 -3.657 3.150,0.685 -3.815 3.307,1.315 -3.815 3.307,1.157 -3.657 3.150]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [1.500 -3.008 -0.000,-1.500 -3.008 3.307,1.500 -3.008 3.307,-1.500 -3.008 -0.000]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-1.500 -3.795 0.197,1.500 -3.795 0.197,1.500 -3.795 -0.000,-1.500 -3.795 -0.000]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-1.157 -3.343 3.150,-0.843 -3.343 0.197,-0.843 -3.343 3.150,-1.157 -3.343 0.197]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [-0.157 -3.657 3.150,-0.157 -3.657 0.197,-0.157 -3.343 3.150,-0.157 -3.343 0.197]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [0.843 -3.657 3.150,0.843 -3.657 0.197,0.843 -3.343 3.150,0.843 -3.343 0.197]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [1.500 -3.008 -0.000,1.500 -3.205 -0.000,-1.500 -3.008 -0.000,-1.500 -3.205 -0.000]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,2,1,-1,4,1,0,-1,5,4,0,-1,6,3,5,-1,7,6,5,-1,8,9,10,-1,11,8,10,-1,12,8,13,-1,14,13,15,-1,14,15,11,-1,14,12,13,-1,12,2,3,-1,12,3,6,-1,12,6,9,-1,12,9,8,-1,0,14,11,-1,0,11,10,-1,0,10,7,-1,0,7,5,-1]
+coord Coordinate { point [1.500 -3.795 0.197,1.157 -3.343 0.197,1.500 -3.205 0.197,0.843 -3.343 0.197,1.157 -3.657 0.197,0.843 -3.657 0.197,0.157 -3.343 0.197,0.157 -3.657 0.197,-0.843 -3.343 0.197,-0.157 -3.343 0.197,-0.157 -3.657 0.197,-0.843 -3.657 0.197,-1.500 -3.205 0.197,-1.157 -3.343 0.197,-1.500 -3.795 0.197,-1.157 -3.657 0.197]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [-0.843 -3.657 0.197,-0.843 -3.657 3.150,-0.843 -3.343 0.197,-0.843 -3.343 3.150]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [-1.157 -3.657 3.150,-1.157 -3.657 0.197,-1.157 -3.343 3.150,-1.157 -3.343 0.197]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [-0.157 -3.657 0.197,-0.157 -3.657 3.150,0.157 -3.657 3.150,0.157 -3.657 0.197]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-0.157 -3.343 3.150,0.157 -3.343 0.197,0.157 -3.343 3.150,-0.157 -3.343 0.197]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [0.843 -3.657 0.197,0.843 -3.657 3.150,1.157 -3.657 3.150,1.157 -3.657 0.197]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [0.843 -3.343 3.150,1.157 -3.343 0.197,1.157 -3.343 3.150,0.843 -3.343 0.197]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-1.500 -3.205 -0.000,1.500 -3.205 -0.000,1.500 -3.205 0.197,-1.500 -3.205 0.197]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [-1.157 -3.657 0.197,-1.157 -3.657 3.150,-0.843 -3.657 3.150,-0.843 -3.657 0.197]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [0.157 -3.657 0.197,0.157 -3.657 3.150,0.157 -3.343 0.197,0.157 -3.343 3.150]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [1.157 -3.657 0.197,1.157 -3.657 3.150,1.157 -3.343 0.197,1.157 -3.343 3.150]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,2,1,3,-1]
+coord Coordinate { point [1.500 3.008 3.307,-1.500 3.008 3.307,1.500 3.008 -0.000,-1.500 3.008 -0.000]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,0,3,-1,2,1,4,-1,2,4,5,-1,3,6,5,-1,5,6,7,-1,8,9,10,-1,10,9,11,-1,12,9,13,-1,9,8,13,-1,12,13,14,-1,11,14,15,-1,10,11,15,-1,14,13,15,-1,7,15,2,-1,5,7,2,-1,10,15,7,-1,3,0,13,-1,6,3,13,-1,8,6,13,-1]
+coord Coordinate { point [1.500 3.992 3.307,1.315 3.815 3.307,1.500 3.008 3.307,0.685 3.815 3.307,1.315 3.185 3.307,0.685 3.185 3.307,0.315 3.815 3.307,0.315 3.185 3.307,-0.315 3.815 3.307,-0.685 3.815 3.307,-0.315 3.185 3.307,-0.685 3.185 3.307,-1.315 3.815 3.307,-1.500 3.992 3.307,-1.315 3.185 3.307,-1.500 3.008 3.307]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,4,5,-1,6,0,2,-1,7,3,0,-1,7,0,6,-1,7,4,3,-1]
+coord Coordinate { point [-1.500 3.205 0.197,-1.500 3.205 -0.000,-1.500 3.008 -0.000,-1.500 3.795 0.197,-1.500 3.992 -0.000,-1.500 3.795 -0.000,-1.500 3.008 3.307,-1.500 3.992 3.307]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [1.500 3.205 -0.000,1.500 3.008 -0.000,-1.500 3.205 -0.000,-1.500 3.008 -0.000]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1,4,5,2,-1,4,2,1,-1,6,4,7,-1,6,5,4,-1]
+coord Coordinate { point [1.500 3.008 -0.000,1.500 3.205 0.197,1.500 3.008 3.307,1.500 3.205 -0.000,1.500 3.795 0.197,1.500 3.992 3.307,1.500 3.992 -0.000,1.500 3.795 -0.000]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-1.157 3.657 3.150,-0.843 3.657 3.150,-0.685 3.815 3.307,-1.315 3.815 3.307]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [-0.843 3.343 3.150,-0.685 3.185 3.307,-0.843 3.657 3.150,-0.685 3.815 3.307]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [-1.157 3.343 3.150,-1.315 3.185 3.307,-0.685 3.185 3.307,-0.843 3.343 3.150]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [-1.315 3.185 3.307,-1.157 3.343 3.150,-1.315 3.815 3.307,-1.157 3.657 3.150]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [-0.315 3.185 3.307,-0.157 3.343 3.150,-0.315 3.815 3.307,-0.157 3.657 3.150]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-0.315 3.815 3.307,0.157 3.657 3.150,0.315 3.815 3.307,-0.157 3.657 3.150]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [0.157 3.343 3.150,0.315 3.185 3.307,0.157 3.657 3.150,0.315 3.815 3.307]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [-0.157 3.343 3.150,-0.315 3.185 3.307,0.315 3.185 3.307,0.157 3.343 3.150]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [0.685 3.185 3.307,0.843 3.343 3.150,0.685 3.815 3.307,0.843 3.657 3.150]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [0.685 3.815 3.307,1.157 3.657 3.150,1.315 3.815 3.307,0.843 3.657 3.150]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [1.157 3.343 3.150,1.315 3.185 3.307,1.157 3.657 3.150,1.315 3.815 3.307]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [0.843 3.343 3.150,0.685 3.185 3.307,1.315 3.185 3.307,1.157 3.343 3.150]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [1.500 3.992 -0.000,-1.500 3.992 3.307,1.500 3.992 3.307,-1.500 3.992 -0.000]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [-1.500 3.205 -0.000,-1.500 3.205 0.197,1.500 3.205 0.197,1.500 3.205 -0.000]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-1.157 3.657 3.150,-0.843 3.657 0.197,-0.843 3.657 3.150,-1.157 3.657 0.197]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [-0.157 3.343 3.150,-0.157 3.343 0.197,-0.157 3.657 3.150,-0.157 3.657 0.197]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [0.843 3.343 3.150,0.843 3.343 0.197,0.843 3.657 3.150,0.843 3.657 0.197]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [1.500 3.992 -0.000,1.500 3.795 -0.000,-1.500 3.992 -0.000,-1.500 3.795 -0.000]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,4,-1,3,2,1,-1,5,3,4,-1,6,0,5,-1,7,6,5,-1,8,9,10,-1,8,11,9,-1,12,11,13,-1,14,12,13,-1,15,14,8,-1,15,12,14,-1,12,1,0,-1,12,0,6,-1,12,6,9,-1,12,9,11,-1,4,15,8,-1,4,8,10,-1,4,10,7,-1,4,7,5,-1]
+coord Coordinate { point [0.843 3.657 0.197,1.500 3.795 0.197,1.157 3.657 0.197,1.157 3.343 0.197,1.500 3.205 0.197,0.843 3.343 0.197,0.157 3.657 0.197,0.157 3.343 0.197,-0.843 3.343 0.197,-0.157 3.657 0.197,-0.157 3.343 0.197,-0.843 3.657 0.197,-1.500 3.795 0.197,-1.157 3.657 0.197,-1.157 3.343 0.197,-1.500 3.205 0.197]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [-0.843 3.343 0.197,-0.843 3.343 3.150,-0.843 3.657 0.197,-0.843 3.657 3.150]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [-1.157 3.343 3.150,-1.157 3.343 0.197,-1.157 3.657 3.150,-1.157 3.657 0.197]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [-0.157 3.343 0.197,-0.157 3.343 3.150,0.157 3.343 3.150,0.157 3.343 0.197]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-0.157 3.657 3.150,0.157 3.657 0.197,0.157 3.657 3.150,-0.157 3.657 0.197]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [0.843 3.343 0.197,0.843 3.343 3.150,1.157 3.343 3.150,1.157 3.343 0.197]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [0.843 3.657 3.150,1.157 3.657 0.197,1.157 3.657 3.150,0.843 3.657 0.197]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [-1.500 3.795 0.197,-1.500 3.795 -0.000,1.500 3.795 -0.000,1.500 3.795 0.197]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [-1.157 3.343 0.197,-1.157 3.343 3.150,-0.843 3.343 3.150,-0.843 3.343 0.197]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [0.157 3.343 0.197,0.157 3.343 3.150,0.157 3.657 0.197,0.157 3.657 3.150]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [1.157 3.343 0.197,1.157 3.343 3.150,1.157 3.657 0.197,1.157 3.657 3.150]
+}}
+appearance Appearance{material Material{diffuseColor 0.129412 0.129412 0.129412
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [0.118 3.618 -1.142,0.118 3.382 0.415,0.118 3.382 -1.142,0.118 3.618 0.415]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1,4,2,5,-1,4,0,2,-1,6,5,7,-1,6,4,5,-1,8,7,9,-1,8,6,7,-1,10,9,11,-1,10,11,12,-1,10,8,9,-1,13,12,14,-1,13,10,12,-1,15,14,16,-1,15,13,14,-1]
+coord Coordinate { point [0.117 3.617 -1.155,0.118 3.382 -1.142,0.117 3.383 -1.159,0.118 3.618 -1.142,0.114 3.614 -1.168,0.112 3.388 -1.177,0.107 3.607 -1.186,0.103 3.397 -1.194,0.096 3.596 -1.204,0.091 3.409 -1.210,0.076 3.576 -1.222,0.076 3.424 -1.223,0.059 3.441 -1.232,0.051 3.551 -1.235,0.039 3.461 -1.238,0.020 3.520 -1.240,0.020 3.480 -1.240]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [0.118 3.382 -1.142,0.118 3.382 0.415,-0.118 3.382 -1.142,-0.118 3.382 0.415]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [0.118 3.382 0.415,0.118 3.618 0.415,-0.118 3.382 0.415,-0.118 3.618 0.415]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-0.118 3.618 -1.142,0.118 3.618 0.415,0.118 3.618 -1.142,-0.118 3.618 0.415]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [0.020 3.480 -1.240,-0.020 3.480 -1.240,-0.020 3.520 -1.240,0.020 3.520 -1.240]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,4,0,3,-1,5,4,6,-1,5,0,4,-1,7,5,6,-1,8,9,10,-1,8,6,9,-1,8,7,6,-1,11,10,12,-1,11,8,10,-1,13,11,12,-1,14,15,16,-1,14,12,15,-1,14,13,12,-1,17,14,16,-1]
+coord Coordinate { point [-0.039 3.461 -1.238,-0.020 3.480 -1.240,0.020 3.480 -1.240,0.039 3.461 -1.238,0.059 3.441 -1.232,-0.059 3.441 -1.232,0.076 3.424 -1.223,-0.076 3.424 -1.223,-0.091 3.409 -1.210,0.091 3.409 -1.210,0.103 3.397 -1.194,-0.103 3.397 -1.194,0.112 3.388 -1.177,-0.112 3.388 -1.177,-0.117 3.383 -1.159,0.117 3.383 -1.159,0.118 3.382 -1.142,-0.118 3.382 -1.142]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1,0,4,3,-1,5,0,2,-1,6,2,7,-1,6,5,2,-1,8,7,9,-1,8,6,7,-1,10,9,11,-1,10,8,9,-1,12,10,11,-1,13,10,12,-1,14,13,12,-1,15,13,14,-1]
+coord Coordinate { point [-0.117 3.617 -1.155,0.117 3.617 -1.155,0.114 3.614 -1.168,0.118 3.618 -1.142,-0.118 3.618 -1.142,-0.114 3.614 -1.168,-0.107 3.607 -1.186,0.107 3.607 -1.186,-0.096 3.596 -1.204,0.096 3.596 -1.204,-0.076 3.576 -1.222,0.076 3.576 -1.222,0.051 3.551 -1.235,-0.051 3.551 -1.235,0.020 3.520 -1.240,-0.020 3.520 -1.240]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [-0.118 3.618 0.415,-0.118 3.618 -1.142,-0.118 3.382 -1.142,-0.118 3.382 0.415]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,4,-1,3,1,0,-1,5,6,7,-1,5,4,6,-1,5,3,4,-1,8,7,9,-1,8,5,7,-1,10,9,11,-1,10,8,9,-1,12,11,13,-1,12,10,11,-1,14,13,15,-1,14,12,13,-1,16,14,15,-1]
+coord Coordinate { point [-0.039 3.461 -1.238,-0.020 3.520 -1.240,-0.020 3.480 -1.240,-0.051 3.551 -1.235,-0.059 3.441 -1.232,-0.076 3.576 -1.222,-0.076 3.424 -1.223,-0.091 3.409 -1.210,-0.096 3.596 -1.204,-0.103 3.397 -1.194,-0.107 3.607 -1.186,-0.112 3.388 -1.177,-0.114 3.614 -1.168,-0.117 3.383 -1.159,-0.117 3.617 -1.155,-0.118 3.382 -1.142,-0.118 3.618 -1.142]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-0.882 -3.382 -1.142,-0.882 -3.618 0.415,-0.882 -3.618 -1.142,-0.882 -3.382 0.415]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1,4,2,5,-1,4,0,2,-1,6,5,7,-1,6,4,5,-1,8,7,9,-1,8,6,7,-1,10,9,11,-1,10,11,12,-1,10,8,9,-1,13,12,14,-1,13,10,12,-1,15,14,16,-1,15,13,14,-1]
+coord Coordinate { point [-0.883 -3.383 -1.155,-0.882 -3.618 -1.142,-0.883 -3.617 -1.159,-0.882 -3.382 -1.142,-0.886 -3.386 -1.168,-0.888 -3.612 -1.177,-0.893 -3.392 -1.186,-0.897 -3.603 -1.194,-0.904 -3.404 -1.204,-0.909 -3.591 -1.210,-0.924 -3.424 -1.222,-0.924 -3.576 -1.223,-0.941 -3.559 -1.232,-0.949 -3.449 -1.235,-0.961 -3.539 -1.238,-0.980 -3.480 -1.240,-0.980 -3.520 -1.240]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [-0.882 -3.618 -1.142,-0.882 -3.618 0.415,-1.118 -3.618 -1.142,-1.118 -3.618 0.415]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [-0.882 -3.618 0.415,-0.882 -3.382 0.415,-1.118 -3.618 0.415,-1.118 -3.382 0.415]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-1.118 -3.382 -1.142,-0.882 -3.382 0.415,-0.882 -3.382 -1.142,-1.118 -3.382 0.415]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-0.980 -3.520 -1.240,-1.020 -3.520 -1.240,-1.020 -3.480 -1.240,-0.980 -3.480 -1.240]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,4,3,5,-1,4,0,3,-1,6,5,7,-1,6,4,5,-1,8,7,9,-1,8,6,7,-1,10,9,11,-1,10,8,9,-1,12,11,13,-1,12,10,11,-1,14,13,15,-1,14,12,13,-1,16,15,17,-1,16,14,15,-1]
+coord Coordinate { point [-1.039 -3.539 -1.238,-1.020 -3.520 -1.240,-0.980 -3.520 -1.240,-0.961 -3.539 -1.238,-1.059 -3.559 -1.232,-0.941 -3.559 -1.232,-1.076 -3.576 -1.223,-0.924 -3.576 -1.223,-1.091 -3.591 -1.210,-0.909 -3.591 -1.210,-1.103 -3.603 -1.194,-0.897 -3.603 -1.194,-1.112 -3.612 -1.177,-0.888 -3.612 -1.177,-1.117 -3.617 -1.159,-0.883 -3.617 -1.159,-1.118 -3.618 -1.142,-0.882 -3.618 -1.142]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1,0,4,3,-1,5,2,6,-1,5,0,2,-1,7,6,8,-1,7,5,6,-1,9,8,10,-1,9,7,8,-1,11,9,10,-1,12,10,13,-1,12,11,10,-1,14,13,15,-1,14,12,13,-1]
+coord Coordinate { point [-1.117 -3.383 -1.155,-0.883 -3.383 -1.155,-0.886 -3.386 -1.168,-0.882 -3.382 -1.142,-1.118 -3.382 -1.142,-1.114 -3.386 -1.168,-0.893 -3.392 -1.186,-1.107 -3.392 -1.186,-0.904 -3.404 -1.204,-1.096 -3.404 -1.204,-0.924 -3.424 -1.222,-1.076 -3.424 -1.222,-1.051 -3.449 -1.235,-0.949 -3.449 -1.235,-1.020 -3.480 -1.240,-0.980 -3.480 -1.240]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [-1.118 -3.382 0.415,-1.118 -3.382 -1.142,-1.118 -3.618 -1.142,-1.118 -3.618 0.415]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,4,-1,3,1,0,-1,5,6,7,-1,5,4,6,-1,5,3,4,-1,8,7,9,-1,8,5,7,-1,10,9,11,-1,10,8,9,-1,12,11,13,-1,12,10,11,-1,14,13,15,-1,14,12,13,-1,16,14,15,-1]
+coord Coordinate { point [-1.039 -3.539 -1.238,-1.020 -3.480 -1.240,-1.020 -3.520 -1.240,-1.051 -3.449 -1.235,-1.059 -3.559 -1.232,-1.076 -3.424 -1.222,-1.076 -3.576 -1.223,-1.091 -3.591 -1.210,-1.096 -3.404 -1.204,-1.103 -3.603 -1.194,-1.107 -3.392 -1.186,-1.112 -3.612 -1.177,-1.114 -3.386 -1.168,-1.117 -3.617 -1.159,-1.117 -3.383 -1.155,-1.118 -3.618 -1.142,-1.118 -3.382 -1.142]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-0.882 3.618 -1.142,-0.882 3.382 0.415,-0.882 3.382 -1.142,-0.882 3.618 0.415]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1,4,2,5,-1,4,0,2,-1,6,5,7,-1,6,4,5,-1,8,7,9,-1,8,6,7,-1,10,9,11,-1,10,11,12,-1,10,8,9,-1,13,12,14,-1,13,10,12,-1,15,14,16,-1,15,13,14,-1]
+coord Coordinate { point [-0.883 3.617 -1.155,-0.882 3.382 -1.142,-0.883 3.383 -1.159,-0.882 3.618 -1.142,-0.886 3.614 -1.168,-0.888 3.388 -1.177,-0.893 3.607 -1.186,-0.897 3.397 -1.194,-0.904 3.596 -1.204,-0.909 3.409 -1.210,-0.924 3.576 -1.222,-0.924 3.424 -1.223,-0.941 3.441 -1.232,-0.949 3.551 -1.235,-0.961 3.461 -1.238,-0.980 3.520 -1.240,-0.980 3.480 -1.240]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [-0.882 3.382 -1.142,-0.882 3.382 0.415,-1.118 3.382 -1.142,-1.118 3.382 0.415]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [-0.882 3.382 0.415,-0.882 3.618 0.415,-1.118 3.382 0.415,-1.118 3.618 0.415]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-1.118 3.618 -1.142,-0.882 3.618 0.415,-0.882 3.618 -1.142,-1.118 3.618 0.415]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-0.980 3.480 -1.240,-1.020 3.480 -1.240,-1.020 3.520 -1.240,-0.980 3.520 -1.240]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,4,0,3,-1,5,0,4,-1,6,7,8,-1,6,4,7,-1,6,5,4,-1,9,6,8,-1,10,11,12,-1,10,8,11,-1,10,9,8,-1,13,10,12,-1,14,15,16,-1,14,12,15,-1,14,13,12,-1,17,14,16,-1]
+coord Coordinate { point [-1.039 3.461 -1.238,-1.020 3.480 -1.240,-0.980 3.480 -1.240,-0.961 3.461 -1.238,-0.941 3.441 -1.232,-1.059 3.441 -1.232,-1.076 3.424 -1.223,-0.924 3.424 -1.223,-0.909 3.409 -1.210,-1.091 3.409 -1.210,-1.103 3.397 -1.194,-0.897 3.397 -1.194,-0.888 3.388 -1.177,-1.112 3.388 -1.177,-1.117 3.383 -1.159,-0.883 3.383 -1.159,-0.882 3.382 -1.142,-1.118 3.382 -1.142]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1,4,5,6,-1,4,2,5,-1,4,0,2,-1,7,6,8,-1,7,4,6,-1,9,8,10,-1,9,7,8,-1,11,9,10,-1,12,10,13,-1,12,11,10,-1,14,13,15,-1,14,12,13,-1]
+coord Coordinate { point [-1.117 3.617 -1.155,-0.882 3.618 -1.142,-0.883 3.617 -1.155,-1.118 3.618 -1.142,-1.114 3.614 -1.168,-0.886 3.614 -1.168,-0.893 3.607 -1.186,-1.107 3.607 -1.186,-0.904 3.596 -1.204,-1.096 3.596 -1.204,-0.924 3.576 -1.222,-1.076 3.576 -1.222,-1.051 3.551 -1.235,-0.949 3.551 -1.235,-1.020 3.520 -1.240,-0.980 3.520 -1.240]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [-1.118 3.618 0.415,-1.118 3.618 -1.142,-1.118 3.382 -1.142,-1.118 3.382 0.415]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,4,-1,3,1,0,-1,5,6,7,-1,5,4,6,-1,5,3,4,-1,8,7,9,-1,8,5,7,-1,10,9,11,-1,10,8,9,-1,12,11,13,-1,12,10,11,-1,14,13,15,-1,14,12,13,-1,16,14,15,-1]
+coord Coordinate { point [-1.039 3.461 -1.238,-1.020 3.520 -1.240,-1.020 3.480 -1.240,-1.051 3.551 -1.235,-1.059 3.441 -1.232,-1.076 3.576 -1.222,-1.076 3.424 -1.223,-1.091 3.409 -1.210,-1.096 3.596 -1.204,-1.103 3.397 -1.194,-1.107 3.607 -1.186,-1.112 3.388 -1.177,-1.114 3.614 -1.168,-1.117 3.383 -1.159,-1.117 3.617 -1.155,-1.118 3.382 -1.142,-1.118 3.618 -1.142]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [1.118 -3.618 -1.142,1.118 -3.618 0.415,0.882 -3.618 -1.142,0.882 -3.618 0.415]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,4,3,5,-1,4,0,3,-1,6,4,5,-1,7,5,8,-1,7,6,5,-1,9,8,10,-1,9,7,8,-1,11,10,12,-1,11,9,10,-1,13,12,14,-1,13,11,12,-1,15,14,16,-1,15,13,14,-1]
+coord Coordinate { point [0.961 -3.539 -1.238,0.980 -3.520 -1.240,1.020 -3.520 -1.240,1.051 -3.551 -1.235,0.941 -3.559 -1.232,1.076 -3.576 -1.222,0.924 -3.576 -1.223,0.909 -3.591 -1.210,1.096 -3.596 -1.204,0.897 -3.603 -1.194,1.107 -3.607 -1.186,0.888 -3.612 -1.177,1.114 -3.614 -1.168,0.883 -3.617 -1.159,1.117 -3.617 -1.155,0.882 -3.618 -1.142,1.118 -3.618 -1.142]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [1.118 -3.382 -1.142,1.118 -3.618 0.415,1.118 -3.618 -1.142,1.118 -3.382 0.415]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [1.118 -3.618 0.415,1.118 -3.382 0.415,0.882 -3.618 0.415,0.882 -3.382 0.415]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [0.882 -3.382 0.415,0.882 -3.382 -1.142,0.882 -3.618 -1.142,0.882 -3.618 0.415]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,2,1,3,-1]
+coord Coordinate { point [1.020 -3.520 -1.240,0.980 -3.520 -1.240,1.020 -3.480 -1.240,0.980 -3.480 -1.240]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,4,3,5,-1,4,0,3,-1,6,5,7,-1,6,4,5,-1,8,7,9,-1,8,6,7,-1,10,11,12,-1,10,9,11,-1,10,8,9,-1,13,12,14,-1,13,10,12,-1,15,13,14,-1,16,14,17,-1,16,15,14,-1]
+coord Coordinate { point [0.961 -3.461 -1.238,0.980 -3.480 -1.240,0.980 -3.520 -1.240,0.961 -3.539 -1.238,0.941 -3.441 -1.232,0.941 -3.559 -1.232,0.924 -3.424 -1.223,0.924 -3.576 -1.223,0.909 -3.409 -1.210,0.909 -3.591 -1.210,0.897 -3.397 -1.194,0.897 -3.603 -1.194,0.888 -3.612 -1.177,0.888 -3.388 -1.177,0.883 -3.617 -1.159,0.883 -3.383 -1.159,0.882 -3.382 -1.142,0.882 -3.618 -1.142]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1,4,2,5,-1,4,0,2,-1,6,5,7,-1,6,4,5,-1,8,7,9,-1,8,6,7,-1,10,9,11,-1,10,8,9,-1,12,11,13,-1,12,10,11,-1,14,12,13,-1,15,12,14,-1]
+coord Coordinate { point [1.117 -3.383 -1.155,1.118 -3.618 -1.142,1.117 -3.617 -1.155,1.118 -3.382 -1.142,1.114 -3.386 -1.168,1.114 -3.614 -1.168,1.107 -3.392 -1.186,1.107 -3.607 -1.186,1.096 -3.404 -1.204,1.096 -3.596 -1.204,1.076 -3.424 -1.222,1.076 -3.576 -1.222,1.051 -3.449 -1.235,1.051 -3.551 -1.235,1.020 -3.520 -1.240,1.020 -3.480 -1.240]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [0.882 -3.382 -1.142,1.118 -3.382 0.415,1.118 -3.382 -1.142,0.882 -3.382 0.415]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,2,4,-1,3,0,2,-1,5,4,6,-1,5,3,4,-1,7,6,8,-1,7,5,6,-1,9,8,10,-1,9,7,8,-1,11,9,10,-1,12,10,13,-1,12,11,10,-1,14,12,13,-1,15,14,13,-1,16,14,15,-1]
+coord Coordinate { point [0.882 -3.382 -1.142,1.118 -3.382 -1.142,1.117 -3.383 -1.155,0.883 -3.383 -1.159,1.114 -3.386 -1.168,0.888 -3.388 -1.177,1.107 -3.392 -1.186,0.897 -3.397 -1.194,1.096 -3.404 -1.204,0.909 -3.409 -1.210,1.076 -3.424 -1.222,0.924 -3.424 -1.223,0.941 -3.441 -1.232,1.051 -3.449 -1.235,0.961 -3.461 -1.238,1.020 -3.480 -1.240,0.980 -3.480 -1.240]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [1.118 3.382 -1.142,1.118 3.382 0.415,0.882 3.382 -1.142,0.882 3.382 0.415]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,4,3,5,-1,4,0,3,-1,6,4,5,-1,7,5,8,-1,7,6,5,-1,9,8,10,-1,9,7,8,-1,11,10,12,-1,11,9,10,-1,13,12,14,-1,13,11,12,-1,15,14,16,-1,15,13,14,-1]
+coord Coordinate { point [0.961 3.461 -1.238,0.980 3.480 -1.240,1.020 3.480 -1.240,1.051 3.449 -1.235,0.941 3.441 -1.232,1.076 3.424 -1.222,0.924 3.424 -1.223,0.909 3.409 -1.210,1.096 3.404 -1.204,0.897 3.397 -1.194,1.107 3.392 -1.186,0.888 3.388 -1.177,1.114 3.386 -1.168,0.883 3.383 -1.159,1.117 3.383 -1.155,0.882 3.382 -1.142,1.118 3.382 -1.142]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [1.118 3.618 -1.142,1.118 3.382 0.415,1.118 3.382 -1.142,1.118 3.618 0.415]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [1.118 3.382 0.415,1.118 3.618 0.415,0.882 3.382 0.415,0.882 3.618 0.415]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [0.882 3.618 0.415,0.882 3.618 -1.142,0.882 3.382 -1.142,0.882 3.382 0.415]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [1.020 3.480 -1.240,0.980 3.480 -1.240,0.980 3.520 -1.240,1.020 3.520 -1.240]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1,4,3,0,-1,5,4,6,-1,5,3,4,-1,7,5,6,-1,8,6,9,-1,8,7,6,-1,10,11,12,-1,10,9,11,-1,10,8,9,-1,13,10,12,-1,14,12,15,-1,14,13,12,-1,16,15,17,-1,16,14,15,-1]
+coord Coordinate { point [0.961 3.461 -1.238,0.980 3.520 -1.240,0.980 3.480 -1.240,0.961 3.539 -1.238,0.941 3.441 -1.232,0.941 3.559 -1.232,0.924 3.424 -1.223,0.924 3.576 -1.223,0.909 3.591 -1.210,0.909 3.409 -1.210,0.897 3.603 -1.194,0.897 3.397 -1.194,0.888 3.388 -1.177,0.888 3.612 -1.177,0.883 3.617 -1.159,0.883 3.383 -1.159,0.882 3.618 -1.142,0.882 3.382 -1.142]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1,4,5,6,-1,4,2,5,-1,4,0,2,-1,7,4,6,-1,8,6,9,-1,8,7,6,-1,10,9,11,-1,10,8,9,-1,12,11,13,-1,12,10,11,-1,14,12,13,-1,15,12,14,-1]
+coord Coordinate { point [1.117 3.617 -1.155,1.118 3.382 -1.142,1.117 3.383 -1.155,1.118 3.618 -1.142,1.114 3.614 -1.168,1.114 3.386 -1.168,1.107 3.392 -1.186,1.107 3.607 -1.186,1.096 3.596 -1.204,1.096 3.404 -1.204,1.076 3.576 -1.222,1.076 3.424 -1.222,1.051 3.551 -1.235,1.051 3.449 -1.235,1.020 3.480 -1.240,1.020 3.520 -1.240]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [1.118 3.618 -1.142,0.882 3.618 0.415,1.118 3.618 0.415,0.882 3.618 -1.142]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,2,4,-1,3,0,2,-1,5,4,6,-1,5,3,4,-1,7,6,8,-1,7,5,6,-1,9,8,10,-1,9,7,8,-1,11,9,10,-1,12,10,13,-1,12,11,10,-1,14,12,13,-1,15,14,13,-1,16,14,15,-1]
+coord Coordinate { point [0.882 3.618 -1.142,1.118 3.618 -1.142,1.117 3.617 -1.155,0.883 3.617 -1.159,1.114 3.614 -1.168,0.888 3.612 -1.177,1.107 3.607 -1.186,0.897 3.603 -1.194,1.096 3.596 -1.204,0.909 3.591 -1.210,1.076 3.576 -1.222,0.924 3.576 -1.223,0.941 3.559 -1.232,1.051 3.551 -1.235,0.961 3.539 -1.238,1.020 3.520 -1.240,0.980 3.520 -1.240]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [0.118 -3.382 -1.142,0.118 -3.618 0.415,0.118 -3.618 -1.142,0.118 -3.382 0.415]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1,4,2,5,-1,4,0,2,-1,6,5,7,-1,6,4,5,-1,8,7,9,-1,8,6,7,-1,10,9,11,-1,10,11,12,-1,10,8,9,-1,13,12,14,-1,13,10,12,-1,15,14,16,-1,15,13,14,-1]
+coord Coordinate { point [0.117 -3.383 -1.155,0.118 -3.618 -1.142,0.117 -3.617 -1.159,0.118 -3.382 -1.142,0.114 -3.386 -1.168,0.112 -3.612 -1.177,0.107 -3.392 -1.186,0.103 -3.603 -1.194,0.096 -3.404 -1.204,0.091 -3.591 -1.210,0.076 -3.424 -1.222,0.076 -3.576 -1.223,0.059 -3.559 -1.232,0.051 -3.449 -1.235,0.039 -3.539 -1.238,0.020 -3.480 -1.240,0.020 -3.520 -1.240]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [0.118 -3.618 -1.142,0.118 -3.618 0.415,-0.118 -3.618 -1.142,-0.118 -3.618 0.415]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [0.118 -3.618 0.415,0.118 -3.382 0.415,-0.118 -3.618 0.415,-0.118 -3.382 0.415]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-0.118 -3.382 -1.142,0.118 -3.382 0.415,0.118 -3.382 -1.142,-0.118 -3.382 0.415]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [0.020 -3.520 -1.240,-0.020 -3.520 -1.240,-0.020 -3.480 -1.240,0.020 -3.480 -1.240]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,4,3,5,-1,4,0,3,-1,6,5,7,-1,6,4,5,-1,8,7,9,-1,8,6,7,-1,10,9,11,-1,10,8,9,-1,12,11,13,-1,12,10,11,-1,14,13,15,-1,14,12,13,-1,16,15,17,-1,16,14,15,-1]
+coord Coordinate { point [-0.039 -3.539 -1.238,-0.020 -3.520 -1.240,0.020 -3.520 -1.240,0.039 -3.539 -1.238,-0.059 -3.559 -1.232,0.059 -3.559 -1.232,-0.076 -3.576 -1.223,0.076 -3.576 -1.223,-0.091 -3.591 -1.210,0.091 -3.591 -1.210,-0.103 -3.603 -1.194,0.103 -3.603 -1.194,-0.112 -3.612 -1.177,0.112 -3.612 -1.177,-0.117 -3.617 -1.159,0.117 -3.617 -1.159,-0.118 -3.618 -1.142,0.118 -3.618 -1.142]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1,0,4,3,-1,5,0,2,-1,6,2,7,-1,6,5,2,-1,8,7,9,-1,8,6,7,-1,10,9,11,-1,10,8,9,-1,12,10,11,-1,13,10,12,-1,14,13,12,-1,15,13,14,-1]
+coord Coordinate { point [-0.117 -3.383 -1.155,0.117 -3.383 -1.155,0.114 -3.386 -1.168,0.118 -3.382 -1.142,-0.118 -3.382 -1.142,-0.114 -3.386 -1.168,-0.107 -3.392 -1.186,0.107 -3.392 -1.186,-0.096 -3.404 -1.204,0.096 -3.404 -1.204,-0.076 -3.424 -1.222,0.076 -3.424 -1.222,0.051 -3.449 -1.235,-0.051 -3.449 -1.235,0.020 -3.480 -1.240,-0.020 -3.480 -1.240]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [-0.118 -3.382 0.415,-0.118 -3.382 -1.142,-0.118 -3.618 -1.142,-0.118 -3.618 0.415]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,4,-1,3,1,0,-1,5,6,7,-1,5,4,6,-1,5,3,4,-1,8,7,9,-1,8,5,7,-1,10,9,11,-1,10,8,9,-1,12,11,13,-1,12,10,11,-1,14,13,15,-1,14,12,13,-1,16,14,15,-1]
+coord Coordinate { point [-0.039 -3.539 -1.238,-0.020 -3.480 -1.240,-0.020 -3.520 -1.240,-0.051 -3.449 -1.235,-0.059 -3.559 -1.232,-0.076 -3.424 -1.222,-0.076 -3.576 -1.223,-0.091 -3.591 -1.210,-0.096 -3.404 -1.204,-0.103 -3.603 -1.194,-0.107 -3.392 -1.186,-0.112 -3.612 -1.177,-0.114 -3.386 -1.168,-0.117 -3.617 -1.159,-0.117 -3.383 -1.155,-0.118 -3.618 -1.142,-0.118 -3.382 -1.142]
+}}
+appearance Appearance{material Material{diffuseColor 0.831373 0.831373 0.000000
+transparency 0.000000}}}

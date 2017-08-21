@@ -1,0 +1,10 @@
+(module WL-fiducial_1mm (layer F.Cu) (tedit 545D3247)
+  (fp_text reference fiducial (at -0.1397 -0.7366) (layer F.SilkS) hide
+    (effects (font (size 0.2 0.2) (thickness 0.05)))
+  )
+  (fp_text value VAL** (at 0.9525 -0.7493) (layer F.SilkS) hide
+    (effects (font (size 0.2 0.2) (thickness 0.05)))
+  )
+  (pad 1 smd circle (at 0 0) (size 1 1) (layers F.Cu F.Mask)
+    (solder_mask_margin 0.5) (clearance 0.5) (zone_connect 0))
+)

@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name temp_terminal)(type KiCad)(uri "$(KIPRJMOD)/libraries/temp_terminal.pretty")(options "")(descr ""))
+)

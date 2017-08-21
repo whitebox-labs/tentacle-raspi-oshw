@@ -1,0 +1,16 @@
+(module WL-jumpersvg (layer F.Cu) (tedit 58E293E1)
+  (descr "Imported from jumpersvg.svg")
+  (tags svg2mod)
+  (attr smd)
+  (fp_text reference jumper.kicad_mod (at -0.01016 -3.08219) (layer F.SilkS) hide
+    (effects (font (thickness 0.3048)))
+  )
+  (fp_text value G*** (at -0.01016 5.51551) (layer F.SilkS) hide
+    (effects (font (thickness 0.3048)))
+  )
+  (fp_poly (pts (xy 0.003167 -0.127391) (xy -0.496832 -0.627391) (xy 0.503167 -0.627391) (xy 0.003167 -0.127391)) (layer F.Cu) (width 0))
+  (fp_poly (pts (xy 0.002617 0.114863) (xy -0.497383 0.115902) (xy -0.497383 -0.384098) (xy 0.002617 0.114863)) (layer F.Cu) (width 0))
+  (fp_poly (pts (xy 0.002648 0.114863) (xy 0.502648 0.115902) (xy 0.502648 -0.384098) (xy 0.002648 0.114863)) (layer F.Cu) (width 0))
+  (pad 1 smd rect (at 0.00508 -1.0287) (size 1 0.8) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at 0.00508 0.508) (size 1 0.8) (layers F.Cu F.Paste F.Mask))
+)

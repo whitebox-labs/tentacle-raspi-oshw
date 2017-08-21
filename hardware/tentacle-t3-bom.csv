@@ -1,0 +1,13 @@
+Id,Description,Package,Qty,Designator,Designation
+1,2x40-pin female header .1inch,.1 inch header,1,PI_BOARD101,RASPBERRY_PI_2
+2,LDO voltage regulator,SOT89,2,"REG201,REG301",LD2981ABU50TR
+3,Digital signal isolator,SOIC-8,2,"SIG_ISO201, SIG_ISO301",SI8600
+4,"SMD resistor 4.7K, 1/8W",SM0805,6,"R101, R102, R201, R202, R301, R302",4.7K
+5,Multilayer Ceramic Capacitor 0.1uF,SM0805,4,"C204, C205, C304, C305",0.1 µF
+6,Multilayer Ceramic Capacitor 1uF,SM0805,4,"C201, C202, C301, C302",1µF
+7,Multilayer Ceramic Capacitor 2.2uF,SM0805,2,"C203, C303",2.2µF
+8,Tantalum Capacitor 470uF,C_TANT_CASE_X,1,C101,470µF
+9,Isolated DC/DC converter 5V,R1SE_0505,2,"DCDC201,DCDC301",R1SE_0505
+10,BNC Connector,BNC-1337542,3,"P201,P301",BNC
+11,1x3-pin female header .1inch,1x3  .1 inch spacing female pin,6,"STP201,STP301",ATLAS_STAMP
+12,1x6-pin male header .1inch,1x6 .1 inch spacing male pin,2,"P101, P102",CONN_01X06

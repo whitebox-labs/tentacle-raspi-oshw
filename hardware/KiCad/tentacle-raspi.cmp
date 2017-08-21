@@ -1,0 +1,291 @@
+Cmp-Mod V01 Created by PcbNew   date = Fri 27 Jan 2017 11:49:00 CET
+
+BeginCmp
+TimeStamp = 581D0BE1
+Path = /581D2B43/581CEBB1
+Reference = P301;
+ValeurCmp = BNC;
+IdModule  = temp_terminal:WL-EB08040502_snk;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D0BED
+Path = /581D467C/581D48C5
+Reference = P401;
+ValeurCmp = BNC;
+IdModule  = temp_terminal:WL-EB08040502_snk;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D0BD5
+Path = /581CD1DC/581CEBB1
+Reference = P201;
+ValeurCmp = BNC;
+IdModule  = temp_terminal:WL-EB08040502_snk;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D0C73
+Path = /581CD1DC/581CEB94
+Reference = STP201;
+ValeurCmp = ATLAS_STAMP;
+IdModule  = temp_terminal:WL-ezo-19454_snk;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D0C81
+Path = /581D2B43/581CEB94
+Reference = STP301;
+ValeurCmp = ATLAS_STAMP;
+IdModule  = temp_terminal:WL-ezo-19454_snk;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D0C8F
+Path = /581D467C/581D48A8
+Reference = STP401;
+ValeurCmp = ATLAS_STAMP;
+IdModule  = temp_terminal:WL-ezo-19454_snk;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D0BC9
+Path = /58261C46
+Reference = P101;
+ValeurCmp = CONN_01X06;
+IdModule  = temp_terminal:WL-PINH_1X6_snk;
+EndCmp
+
+BeginCmp
+TimeStamp = 5825F4D6
+Path = /581DE5AA
+Reference = P102;
+ValeurCmp = CONN_01X06;
+IdModule  = temp_terminal:WL-PINH_1X6_snk;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D0C19
+Path = /5658ACBD
+Reference = PI_BOARD101;
+ValeurCmp = RASPBERRY_PI_2;
+IdModule  = temp_terminal:WL-40pin_snk;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D0BAF
+Path = /581CD1DC/581CEBCB
+Reference = DCDC201;
+ValeurCmp = R1SE_0505;
+IdModule  = temp_terminal:WL-R1SE-0505;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D0BBB
+Path = /581D2B43/581CEBCB
+Reference = DCDC301;
+ValeurCmp = R1SE_0505;
+IdModule  = temp_terminal:WL-R1SE-0505;
+EndCmp
+
+BeginCmp
+TimeStamp = 5663275A
+Path = 
+Reference = fiducial;
+ValeurCmp = VAL**;
+IdModule  = temp_terminal:WL-fiducial_1mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 56632751
+Path = 
+Reference = fiducial;
+ValeurCmp = VAL**;
+IdModule  = temp_terminal:WL-fiducial_1mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 56884381
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = temp_terminal:WL-spacedoggy;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D0C65
+Path = /581D2B43/581CEB8D
+Reference = SIG_ISO301;
+ValeurCmp = SI8600;
+IdModule  = temp_terminal:WL-SOIC8N;
+EndCmp
+
+BeginCmp
+TimeStamp = 581E0609
+Path = /581CD1DC/581CEB8D
+Reference = SIG_ISO201;
+ValeurCmp = SI8600;
+IdModule  = temp_terminal:WL-SOIC8N;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D0C3D
+Path = /581D2B43/581CEBF1
+Reference = R302;
+ValeurCmp = 4.7K;
+IdModule  = temp_terminal:WL-SM0805R;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D0C37
+Path = /581D2B43/581CEBEA
+Reference = R301;
+ValeurCmp = 4.7K;
+IdModule  = temp_terminal:WL-SM0805R;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D0C31
+Path = /581CD1DC/581CEBF1
+Reference = R202;
+ValeurCmp = 4.7K;
+IdModule  = temp_terminal:WL-SM0805R;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D0C2B
+Path = /581CD1DC/581CEBEA
+Reference = R201;
+ValeurCmp = 4.7K;
+IdModule  = temp_terminal:WL-SM0805R;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D0C25
+Path = /53E8CB5D
+Reference = R102;
+ValeurCmp = 4.7K;
+IdModule  = temp_terminal:WL-SM0805R;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D0C1F
+Path = /53E8CB63
+Reference = R101;
+ValeurCmp = 4.7K;
+IdModule  = temp_terminal:WL-SM0805R;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D0BA3
+Path = /581D2B43/581CEBB8
+Reference = C305;
+ValeurCmp = 0.1 µF;
+IdModule  = temp_terminal:WL-SM0805C;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D0B9D
+Path = /581D2B43/581CEBF8
+Reference = C304;
+ValeurCmp = 0.1 µF;
+IdModule  = temp_terminal:WL-SM0805C;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D0B97
+Path = /581D2B43/581CEC12
+Reference = C303;
+ValeurCmp = 2.2µF;
+IdModule  = temp_terminal:WL-SM0805C;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D0B8B
+Path = /581D2B43/581CEC21
+Reference = C301;
+ValeurCmp = 1µF;
+IdModule  = temp_terminal:WL-SM0805C;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D0B85
+Path = /581CD1DC/581CEBB8
+Reference = C205;
+ValeurCmp = 0.1 µF;
+IdModule  = temp_terminal:WL-SM0805C;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D0B7F
+Path = /581CD1DC/581CEBF8
+Reference = C204;
+ValeurCmp = 0.1 µF;
+IdModule  = temp_terminal:WL-SM0805C;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D0B79
+Path = /581CD1DC/581CEC12
+Reference = C203;
+ValeurCmp = 2.2µF;
+IdModule  = temp_terminal:WL-SM0805C;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D0B73
+Path = /581CD1DC/581CEC0B
+Reference = C202;
+ValeurCmp = 1µF;
+IdModule  = temp_terminal:WL-SM0805C;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D0B6D
+Path = /581CD1DC/581CEC21
+Reference = C201;
+ValeurCmp = 1µF;
+IdModule  = temp_terminal:WL-SM0805C;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D0B91
+Path = /581D2B43/581CEC0B
+Reference = C302;
+ValeurCmp = 1µF;
+IdModule  = temp_terminal:WL-SM0805C;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D0C4D
+Path = /581D2B43/581CEC1A
+Reference = REG301;
+ValeurCmp = LD2981ABU50TR;
+IdModule  = temp_terminal:WL-SOT89;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D0C45
+Path = /581CD1DC/581CEC1A
+Reference = REG201;
+ValeurCmp = LD2981ABU50TR;
+IdModule  = temp_terminal:WL-SOT89;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D0B67
+Path = /5448282F
+Reference = C101;
+ValeurCmp = 470µF;
+IdModule  = temp_terminal:WL-CASE-X-2917;
+EndCmp
+
+BeginCmp
+TimeStamp = 5664E169
+Path = 
+Reference = PI_Board;
+ValeurCmp = VAL**;
+IdModule  = temp_terminal:WL-PI_Board_no_outline;
+EndCmp
+
+EndListe

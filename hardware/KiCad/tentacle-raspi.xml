@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/home/pedro/desarrollo/whitebox-labs/tentacle-raspi/hardware/KiCad/tentacle-raspi.sch</source>
+    <date>Thu 10 Nov 2016 14:22:49 CET</date>
+    <tool>Eeschema no-vcs-found-product</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Tentacle for Raspberry Pi</title>
+        <company>Whitebox Labs</company>
+        <rev>00.02</rev>
+        <date>2016-11-04</date>
+        <source>tentacle-raspi.sch</source>
+        <comment number="1" value="Dual isolation, I2C Bus Design"/>
+        <comment number="2" value="Pedro Martin"/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/isolation2/" tstamps="/581CD1DC/">
+      <title_block>
+        <title>Tentacle for Raspberry Pi</title>
+        <company>Whitebox Labs</company>
+        <rev>00.02</rev>
+        <date>2016-11-04</date>
+        <source>isolation.sch</source>
+        <comment number="1" value="Dual isolation, I2C Bus Design"/>
+        <comment number="2" value="Pedro Martin"/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/isolation3/" tstamps="/581D2B43/">
+      <title_block>
+        <title>Tentacle for Raspberry Pi</title>
+        <company>Whitebox Labs</company>
+        <rev>00.02</rev>
+        <date>2016-11-04</date>
+        <source>isolation.sch</source>
+        <comment number="1" value="Dual isolation, I2C Bus Design"/>
+        <comment number="2" value="Pedro Martin"/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/nonisolated1/" tstamps="/581D467C/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>nonisolated.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="R102">
+      <value>4.7K</value>
+      <footprint>temp_terminal:WL-SM0805R</footprint>
+      <libsource lib="tentacle-raspi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53E8CB5D</tstamp>
+    </comp>
+    <comp ref="R101">
+      <value>4.7K</value>
+      <footprint>temp_terminal:WL-SM0805R</footprint>
+      <libsource lib="tentacle-raspi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53E8CB63</tstamp>
+    </comp>
+    <comp ref="C101">
+      <value>470µF</value>
+      <footprint>temp_terminal:WL-CASE-X-2917</footprint>
+      <libsource lib="tentacle-raspi" part="CP1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5448282F</tstamp>
+    </comp>
+    <comp ref="PI_BOARD101">
+      <value>RASPBERRY_PI_2</value>
+      <footprint>temp_terminal:WL-pi_pins</footprint>
+      <libsource lib="tentacle-raspi" part="RASPBERRY_PI_2"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5658ACBD</tstamp>
+    </comp>
+    <comp ref="P101">
+      <value>CONN_01X06</value>
+      <footprint>temp_terminal:WL-PINHEAD_5+1</footprint>
+      <libsource lib="tentacle-raspi" part="CONN_01X06"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>581DE5AA</tstamp>
+    </comp>
+    <comp ref="JP1">
+      <value>JUMPER3x2</value>
+      <footprint>temp_terminal:WL-PINHEAD_3x2</footprint>
+      <libsource lib="tentacle-raspi" part="JUMPER3x2"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5824D2B4</tstamp>
+    </comp>
+    <comp ref="SIG_ISO201">
+      <value>SI8600</value>
+      <footprint>temp_terminal:WL-SOIC8N</footprint>
+      <libsource lib="tentacle-raspi" part="SI8600"/>
+      <sheetpath names="/isolation2/" tstamps="/581CD1DC/"/>
+      <tstamp>581CEB8D</tstamp>
+    </comp>
+    <comp ref="STP201">
+      <value>ATLAS_STAMP</value>
+      <footprint>temp_terminal:WL-Atlas_Stamp_14x21</footprint>
+      <libsource lib="tentacle-raspi" part="ATLAS_STAMP"/>
+      <sheetpath names="/isolation2/" tstamps="/581CD1DC/"/>
+      <tstamp>581CEB94</tstamp>
+    </comp>
+    <comp ref="P201">
+      <value>BNC</value>
+      <footprint>temp_terminal:WL-BNC-1337543</footprint>
+      <libsource lib="tentacle-raspi" part="BNC"/>
+      <sheetpath names="/isolation2/" tstamps="/581CD1DC/"/>
+      <tstamp>581CEBB1</tstamp>
+    </comp>
+    <comp ref="C205">
+      <value>0.1 µF</value>
+      <footprint>temp_terminal:WL-SM0805C</footprint>
+      <libsource lib="tentacle-raspi" part="C"/>
+      <sheetpath names="/isolation2/" tstamps="/581CD1DC/"/>
+      <tstamp>581CEBB8</tstamp>
+    </comp>
+    <comp ref="DCDC201">
+      <value>R1SE_0505</value>
+      <footprint>temp_terminal:WL-R1SE-0505</footprint>
+      <libsource lib="tentacle-raspi" part="R1SE_0505"/>
+      <sheetpath names="/isolation2/" tstamps="/581CD1DC/"/>
+      <tstamp>581CEBCB</tstamp>
+    </comp>
+    <comp ref="R201">
+      <value>4.7K</value>
+      <footprint>temp_terminal:WL-SM0805R</footprint>
+      <libsource lib="tentacle-raspi" part="R"/>
+      <sheetpath names="/isolation2/" tstamps="/581CD1DC/"/>
+      <tstamp>581CEBEA</tstamp>
+    </comp>
+    <comp ref="R202">
+      <value>4.7K</value>
+      <footprint>temp_terminal:WL-SM0805R</footprint>
+      <libsource lib="tentacle-raspi" part="R"/>
+      <sheetpath names="/isolation2/" tstamps="/581CD1DC/"/>
+      <tstamp>581CEBF1</tstamp>
+    </comp>
+    <comp ref="C204">
+      <value>0.1 µF</value>
+      <footprint>temp_terminal:WL-SM0805C</footprint>
+      <libsource lib="tentacle-raspi" part="C"/>
+      <sheetpath names="/isolation2/" tstamps="/581CD1DC/"/>
+      <tstamp>581CEBF8</tstamp>
+    </comp>
+    <comp ref="C202">
+      <value>1µF</value>
+      <footprint>temp_terminal:WL-SM0805C</footprint>
+      <libsource lib="tentacle-raspi" part="C"/>
+      <sheetpath names="/isolation2/" tstamps="/581CD1DC/"/>
+      <tstamp>581CEC0B</tstamp>
+    </comp>
+    <comp ref="C203">
+      <value>2.2µF</value>
+      <footprint>temp_terminal:WL-SM0805C</footprint>
+      <libsource lib="tentacle-raspi" part="C"/>
+      <sheetpath names="/isolation2/" tstamps="/581CD1DC/"/>
+      <tstamp>581CEC12</tstamp>
+    </comp>
+    <comp ref="REG201">
+      <value>LD2981ABU50TR</value>
+      <footprint>temp_terminal:WL-SOT89</footprint>
+      <libsource lib="tentacle-raspi" part="LD2981ABU50TR"/>
+      <sheetpath names="/isolation2/" tstamps="/581CD1DC/"/>
+      <tstamp>581CEC1A</tstamp>
+    </comp>
+    <comp ref="C201">
+      <value>1µF</value>
+      <footprint>temp_terminal:WL-SM0805C</footprint>
+      <libsource lib="tentacle-raspi" part="C"/>
+      <sheetpath names="/isolation2/" tstamps="/581CD1DC/"/>
+      <tstamp>581CEC21</tstamp>
+    </comp>
+    <comp ref="SIG_ISO301">
+      <value>SI8600</value>
+      <footprint>temp_terminal:WL-SOIC8N</footprint>
+      <libsource lib="tentacle-raspi" part="SI8600"/>
+      <sheetpath names="/isolation3/" tstamps="/581D2B43/"/>
+      <tstamp>581CEB8D</tstamp>
+    </comp>
+    <comp ref="STP301">
+      <value>ATLAS_STAMP</value>
+      <footprint>temp_terminal:WL-Atlas_Stamp_14x21</footprint>
+      <libsource lib="tentacle-raspi" part="ATLAS_STAMP"/>
+      <sheetpath names="/isolation3/" tstamps="/581D2B43/"/>
+      <tstamp>581CEB94</tstamp>
+    </comp>
+    <comp ref="P301">
+      <value>BNC</value>
+      <footprint>temp_terminal:WL-BNC-1337543</footprint>
+      <libsource lib="tentacle-raspi" part="BNC"/>
+      <sheetpath names="/isolation3/" tstamps="/581D2B43/"/>
+      <tstamp>581CEBB1</tstamp>
+    </comp>
+    <comp ref="C305">
+      <value>0.1 µF</value>
+      <footprint>temp_terminal:WL-SM0805C</footprint>
+      <libsource lib="tentacle-raspi" part="C"/>
+      <sheetpath names="/isolation3/" tstamps="/581D2B43/"/>
+      <tstamp>581CEBB8</tstamp>
+    </comp>
+    <comp ref="DCDC301">
+      <value>R1SE_0505</value>
+      <footprint>temp_terminal:WL-R1SE-0505</footprint>
+      <libsource lib="tentacle-raspi" part="R1SE_0505"/>
+      <sheetpath names="/isolation3/" tstamps="/581D2B43/"/>
+      <tstamp>581CEBCB</tstamp>
+    </comp>
+    <comp ref="R301">
+      <value>4.7K</value>
+      <footprint>temp_terminal:WL-SM0805R</footprint>
+      <libsource lib="tentacle-raspi" part="R"/>
+      <sheetpath names="/isolation3/" tstamps="/581D2B43/"/>
+      <tstamp>581CEBEA</tstamp>
+    </comp>
+    <comp ref="R302">
+      <value>4.7K</value>
+      <footprint>temp_terminal:WL-SM0805R</footprint>
+      <libsource lib="tentacle-raspi" part="R"/>
+      <sheetpath names="/isolation3/" tstamps="/581D2B43/"/>
+      <tstamp>581CEBF1</tstamp>
+    </comp>
+    <comp ref="C304">
+      <value>0.1 µF</value>
+      <footprint>temp_terminal:WL-SM0805C</footprint>
+      <libsource lib="tentacle-raspi" part="C"/>
+      <sheetpath names="/isolation3/" tstamps="/581D2B43/"/>
+      <tstamp>581CEBF8</tstamp>
+    </comp>
+    <comp ref="C302">
+      <value>1µF</value>
+      <footprint>temp_terminal:WL-SM0805C</footprint>
+      <libsource lib="tentacle-raspi" part="C"/>
+      <sheetpath names="/isolation3/" tstamps="/581D2B43/"/>
+      <tstamp>581CEC0B</tstamp>
+    </comp>
+    <comp ref="C303">
+      <value>2.2µF</value>
+      <footprint>temp_terminal:WL-SM0805C</footprint>
+      <libsource lib="tentacle-raspi" part="C"/>
+      <sheetpath names="/isolation3/" tstamps="/581D2B43/"/>
+      <tstamp>581CEC12</tstamp>
+    </comp>
+    <comp ref="REG301">
+      <value>LD2981ABU50TR</value>
+      <footprint>temp_terminal:WL-SOT89</footprint>
+      <libsource lib="tentacle-raspi" part="LD2981ABU50TR"/>
+      <sheetpath names="/isolation3/" tstamps="/581D2B43/"/>
+      <tstamp>581CEC1A</tstamp>
+    </comp>
+    <comp ref="C301">
+      <value>1µF</value>
+      <footprint>temp_terminal:WL-SM0805C</footprint>
+      <libsource lib="tentacle-raspi" part="C"/>
+      <sheetpath names="/isolation3/" tstamps="/581D2B43/"/>
+      <tstamp>581CEC21</tstamp>
+    </comp>
+    <comp ref="STP401">
+      <value>ATLAS_STAMP</value>
+      <footprint>temp_terminal:WL-Atlas_Stamp_14x21</footprint>
+      <libsource lib="tentacle-raspi" part="ATLAS_STAMP"/>
+      <sheetpath names="/nonisolated1/" tstamps="/581D467C/"/>
+      <tstamp>581D48A8</tstamp>
+    </comp>
+    <comp ref="P401">
+      <value>BNC</value>
+      <footprint>temp_terminal:WL-BNC-1337543</footprint>
+      <libsource lib="tentacle-raspi" part="BNC"/>
+      <sheetpath names="/nonisolated1/" tstamps="/581D467C/"/>
+      <tstamp>581D48C5</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="tentacle-raspi" part="ATLAS_STAMP">
+      <fields>
+        <field name="Reference">STP</field>
+        <field name="Value">ATLAS_STAMP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="input"/>
+        <pin num="2" name="TX" type="input"/>
+        <pin num="3" name="RX" type="input"/>
+        <pin num="4" name="VCC" type="input"/>
+        <pin num="5" name="PRB" type="input"/>
+        <pin num="6" name="PRB_GND" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="tentacle-raspi" part="BNC">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">BNC</field>
+      </fields>
+      <pins>
+        <pin num="1" name="In" type="passive"/>
+        <pin num="2" name="Ext" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="tentacle-raspi" part="C">
+      <footprints>
+        <fp>C?</fp>
+        <fp>C_????_*</fp>
+        <fp>C_????</fp>
+        <fp>SMD*_c</fp>
+        <fp>Capacitor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="tentacle-raspi" part="CONN_01X06">
+      <footprints>
+        <fp>Pin_Header_Straight_1X02</fp>
+        <fp>Pin_Header_Angled_1X02</fp>
+        <fp>Socket_Strip_Straight_1X02</fp>
+        <fp>Socket_Strip_Angled_1X02</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_01X06</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="3" type="input"/>
+        <pin num="4" name="4" type="input"/>
+        <pin num="5" name="5" type="input"/>
+        <pin num="6" name="6" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="tentacle-raspi" part="CP1">
+      <footprints>
+        <fp>CP*</fp>
+        <fp>SM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="tentacle-raspi" part="JUMPER3x2">
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">JUMPER3x2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="tentacle-raspi" part="LD2981ABU50TR">
+      <fields>
+        <field name="Reference">REG</field>
+        <field name="Value">LD2981ABU50TR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Vout" type="power_out"/>
+        <pin num="2" name="GND" type="input"/>
+        <pin num="3" name="Vin" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="tentacle-raspi" part="R">
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="tentacle-raspi" part="R1SE_0505">
+      <fields>
+        <field name="Reference">DCDC</field>
+        <field name="Value">R1SE_0505</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="input"/>
+        <pin num="2" name="VCC" type="input"/>
+        <pin num="3" name="NC" type="input"/>
+        <pin num="4" name="GND_ISO" type="power_out"/>
+        <pin num="5" name="V_ISO" type="input"/>
+        <pin num="6" name="NC" type="input"/>
+        <pin num="7" name="NC" type="input"/>
+        <pin num="8" name="NC" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="tentacle-raspi" part="RASPBERRY_PI_2">
+      <fields>
+        <field name="Reference">PI_BOARD</field>
+        <field name="Value">RASPBERRY_PI_2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="3.3v" type="power_out"/>
+        <pin num="2" name="5v" type="power_out"/>
+        <pin num="3" name="GPIO02_(SDA_I2C)" type="BiDi"/>
+        <pin num="4" name="5v" type="power_out"/>
+        <pin num="5" name="GPIO03_(SCL_I2C)" type="BiDi"/>
+        <pin num="6" name="Ground" type="power_out"/>
+        <pin num="7" name="GPIO04_(GPIO_GCLK)" type="BiDi"/>
+        <pin num="8" name="(TX_D0)_GPIO14" type="BiDi"/>
+        <pin num="9" name="Ground" type="power_out"/>
+        <pin num="10" name="(RX_D0)_GPIO15" type="BiDi"/>
+        <pin num="11" name="GPIO17_(GPIO_GEN0)" type="BiDi"/>
+        <pin num="12" name="(GPIO_GEN1)_GPIO18" type="BiDi"/>
+        <pin num="13" name="GPIO27_(GPIO_GEN2)" type="BiDi"/>
+        <pin num="14" name="Ground" type="power_out"/>
+        <pin num="15" name="GPIO22_(GPIO_GEN3)" type="BiDi"/>
+        <pin num="16" name="(GPIO_GEN4)_GPIO23" type="BiDi"/>
+        <pin num="17" name="3.3v" type="power_out"/>
+        <pin num="18" name="(GPIO_GEN5)_GPIO24" type="BiDi"/>
+        <pin num="19" name="GPIO10_(SPI_MOSI)" type="BiDi"/>
+        <pin num="20" name="Ground" type="power_out"/>
+        <pin num="21" name="GPIO09_(SPI_MISO)" type="BiDi"/>
+        <pin num="22" name="(GPIO_GEN6)_GPIO25" type="BiDi"/>
+        <pin num="23" name="GPIO11_(SPI_CLK)" type="BiDi"/>
+        <pin num="24" name="(SPI_CE0_N)_GPIO08" type="BiDi"/>
+        <pin num="25" name="Ground" type="power_out"/>
+        <pin num="26" name="(SPI_CE1_N)_GPIO07" type="BiDi"/>
+        <pin num="27" name="ID_SD_(I2C_id_eeprom)" type="BiDi"/>
+        <pin num="28" name="(I2C_id_eeprom)_ID_SC" type="BiDi"/>
+        <pin num="29" name="GPIO05" type="BiDi"/>
+        <pin num="30" name="Ground" type="power_out"/>
+        <pin num="31" name="GPIO06" type="BiDi"/>
+        <pin num="32" name="GPIO12" type="BiDi"/>
+        <pin num="33" name="GPIO13" type="BiDi"/>
+        <pin num="34" name="Ground" type="power_out"/>
+        <pin num="35" name="GPIO19" type="BiDi"/>
+        <pin num="36" name="GPIO16" type="BiDi"/>
+        <pin num="37" name="GPIO26" type="BiDi"/>
+        <pin num="38" name="GPIO20" type="BiDi"/>
+        <pin num="39" name="Ground" type="power_out"/>
+        <pin num="40" name="GPIO21" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="tentacle-raspi" part="SI8600">
+      <fields>
+        <field name="Reference">SIG_ISO</field>
+        <field name="Value">SI8600</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="input"/>
+        <pin num="2" name="ASDA" type="input"/>
+        <pin num="3" name="ASCL" type="input"/>
+        <pin num="4" name="GND" type="input"/>
+        <pin num="5" name="GND_ISO" type="input"/>
+        <pin num="6" name="BSCL" type="input"/>
+        <pin num="7" name="BSDA" type="input"/>
+        <pin num="8" name="V_ISO" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="tentacle-raspi">
+      <uri>/home/pedro/desarrollo/whitebox-labs/tentacle-raspi/hardware/KiCad/libraries/components/tentacle-raspi.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="V_ISO2">
+      <node ref="C203" pin="2"/>
+      <node ref="C204" pin="2"/>
+      <node ref="R202" pin="1"/>
+      <node ref="R201" pin="1"/>
+      <node ref="C201" pin="2"/>
+      <node ref="STP201" pin="4"/>
+      <node ref="SIG_ISO201" pin="1"/>
+      <node ref="REG201" pin="1"/>
+    </net>
+    <net code="2" name="GND_ISO2">
+      <node ref="C201" pin="1"/>
+      <node ref="REG201" pin="2"/>
+      <node ref="C203" pin="1"/>
+      <node ref="C202" pin="1"/>
+      <node ref="C204" pin="1"/>
+      <node ref="STP201" pin="1"/>
+      <node ref="SIG_ISO201" pin="4"/>
+      <node ref="DCDC201" pin="4"/>
+    </net>
+    <net code="3" name="V_ISO3">
+      <node ref="C301" pin="2"/>
+      <node ref="R301" pin="1"/>
+      <node ref="R302" pin="1"/>
+      <node ref="C304" pin="2"/>
+      <node ref="C303" pin="2"/>
+      <node ref="REG301" pin="1"/>
+      <node ref="STP301" pin="4"/>
+      <node ref="SIG_ISO301" pin="1"/>
+    </net>
+    <net code="4" name="GND_ISO3">
+      <node ref="C302" pin="1"/>
+      <node ref="C301" pin="1"/>
+      <node ref="STP301" pin="1"/>
+      <node ref="C304" pin="1"/>
+      <node ref="C303" pin="1"/>
+      <node ref="DCDC301" pin="4"/>
+      <node ref="REG301" pin="2"/>
+      <node ref="SIG_ISO301" pin="4"/>
+    </net>
+    <net code="5" name="/SDA">
+      <node ref="SIG_ISO301" pin="7"/>
+      <node ref="JP1" pin="1"/>
+      <node ref="R101" pin="1"/>
+      <node ref="PI_BOARD101" pin="3"/>
+      <node ref="P101" pin="2"/>
+      <node ref="SIG_ISO201" pin="7"/>
+    </net>
+    <net code="6" name="GND">
+      <node ref="DCDC201" pin="1"/>
+      <node ref="P101" pin="3"/>
+      <node ref="SIG_ISO201" pin="5"/>
+      <node ref="C305" pin="2"/>
+      <node ref="DCDC301" pin="1"/>
+      <node ref="SIG_ISO301" pin="5"/>
+      <node ref="C205" pin="2"/>
+      <node ref="STP401" pin="1"/>
+      <node ref="PI_BOARD101" pin="9"/>
+      <node ref="C101" pin="2"/>
+    </net>
+    <net code="7" name="Net-(PI_BOARD101-Pad29)">
+      <node ref="PI_BOARD101" pin="29"/>
+    </net>
+    <net code="8" name="VCC">
+      <node ref="PI_BOARD101" pin="2"/>
+      <node ref="P101" pin="4"/>
+      <node ref="DCDC201" pin="2"/>
+      <node ref="DCDC301" pin="2"/>
+      <node ref="C101" pin="1"/>
+    </net>
+    <net code="9" name="/nonisolated1/TX">
+      <node ref="STP401" pin="2"/>
+      <node ref="JP1" pin="2"/>
+    </net>
+    <net code="10" name="/nonisolated1/RX">
+      <node ref="JP1" pin="5"/>
+      <node ref="STP401" pin="3"/>
+    </net>
+    <net code="11" name="/TX-PI">
+      <node ref="JP1" pin="4"/>
+      <node ref="PI_BOARD101" pin="8"/>
+    </net>
+    <net code="12" name="/RX-PI">
+      <node ref="PI_BOARD101" pin="10"/>
+      <node ref="JP1" pin="3"/>
+    </net>
+    <net code="13" name="Net-(P101-Pad5)">
+      <node ref="P101" pin="6"/>
+      <node ref="P101" pin="5"/>
+    </net>
+    <net code="14" name="Net-(PI_BOARD101-Pad34)">
+      <node ref="PI_BOARD101" pin="34"/>
+    </net>
+    <net code="15" name="Net-(PI_BOARD101-Pad11)">
+      <node ref="PI_BOARD101" pin="11"/>
+    </net>
+    <net code="16" name="Net-(PI_BOARD101-Pad21)">
+      <node ref="PI_BOARD101" pin="21"/>
+    </net>
+    <net code="17" name="Net-(PI_BOARD101-Pad31)">
+      <node ref="PI_BOARD101" pin="31"/>
+    </net>
+    <net code="18" name="Net-(PI_BOARD101-Pad12)">
+      <node ref="PI_BOARD101" pin="12"/>
+    </net>
+    <net code="19" name="Net-(PI_BOARD101-Pad22)">
+      <node ref="PI_BOARD101" pin="22"/>
+    </net>
+    <net code="20" name="Net-(PI_BOARD101-Pad32)">
+      <node ref="PI_BOARD101" pin="32"/>
+    </net>
+    <net code="21" name="Net-(PI_BOARD101-Pad13)">
+      <node ref="PI_BOARD101" pin="13"/>
+    </net>
+    <net code="22" name="Net-(PI_BOARD101-Pad23)">
+      <node ref="PI_BOARD101" pin="23"/>
+    </net>
+    <net code="23" name="Net-(PI_BOARD101-Pad33)">
+      <node ref="PI_BOARD101" pin="33"/>
+    </net>
+    <net code="24" name="Net-(PI_BOARD101-Pad14)">
+      <node ref="PI_BOARD101" pin="14"/>
+    </net>
+    <net code="25" name="Net-(PI_BOARD101-Pad24)">
+      <node ref="PI_BOARD101" pin="24"/>
+    </net>
+    <net code="26" name="Net-(PI_BOARD101-Pad40)">
+      <node ref="PI_BOARD101" pin="40"/>
+    </net>
+    <net code="27" name="Net-(PI_BOARD101-Pad15)">
+      <node ref="PI_BOARD101" pin="15"/>
+    </net>
+    <net code="28" name="Net-(PI_BOARD101-Pad25)">
+      <node ref="PI_BOARD101" pin="25"/>
+    </net>
+    <net code="29" name="Net-(PI_BOARD101-Pad35)">
+      <node ref="PI_BOARD101" pin="35"/>
+    </net>
+    <net code="30" name="Net-(PI_BOARD101-Pad16)">
+      <node ref="PI_BOARD101" pin="16"/>
+    </net>
+    <net code="31" name="Net-(PI_BOARD101-Pad26)">
+      <node ref="PI_BOARD101" pin="26"/>
+    </net>
+    <net code="32" name="Net-(PI_BOARD101-Pad36)">
+      <node ref="PI_BOARD101" pin="36"/>
+    </net>
+    <net code="33" name="Net-(PI_BOARD101-Pad17)">
+      <node ref="PI_BOARD101" pin="17"/>
+    </net>
+    <net code="34" name="Net-(PI_BOARD101-Pad27)">
+      <node ref="PI_BOARD101" pin="27"/>
+    </net>
+    <net code="35" name="Net-(PI_BOARD101-Pad37)">
+      <node ref="PI_BOARD101" pin="37"/>
+    </net>
+    <net code="36" name="Net-(PI_BOARD101-Pad18)">
+      <node ref="PI_BOARD101" pin="18"/>
+    </net>
+    <net code="37" name="+3.3V">
+      <node ref="PI_BOARD101" pin="1"/>
+      <node ref="R101" pin="2"/>
+      <node ref="R102" pin="2"/>
+      <node ref="STP401" pin="4"/>
+      <node ref="C305" pin="1"/>
+      <node ref="SIG_ISO201" pin="8"/>
+      <node ref="C205" pin="1"/>
+      <node ref="SIG_ISO301" pin="8"/>
+    </net>
+    <net code="38" name="Net-(PI_BOARD101-Pad4)">
+      <node ref="PI_BOARD101" pin="4"/>
+    </net>
+    <net code="39" name="/SCL">
+      <node ref="SIG_ISO301" pin="6"/>
+      <node ref="JP1" pin="6"/>
+      <node ref="SIG_ISO201" pin="6"/>
+      <node ref="PI_BOARD101" pin="5"/>
+      <node ref="R102" pin="1"/>
+      <node ref="P101" pin="1"/>
+    </net>
+    <net code="40" name="Net-(PI_BOARD101-Pad6)">
+      <node ref="PI_BOARD101" pin="6"/>
+    </net>
+    <net code="41" name="Net-(PI_BOARD101-Pad7)">
+      <node ref="PI_BOARD101" pin="7"/>
+    </net>
+    <net code="42" name="Net-(PI_BOARD101-Pad20)">
+      <node ref="PI_BOARD101" pin="20"/>
+    </net>
+    <net code="43" name="Net-(PI_BOARD101-Pad30)">
+      <node ref="PI_BOARD101" pin="30"/>
+    </net>
+    <net code="44" name="Net-(PI_BOARD101-Pad39)">
+      <node ref="PI_BOARD101" pin="39"/>
+    </net>
+    <net code="45" name="Net-(PI_BOARD101-Pad19)">
+      <node ref="PI_BOARD101" pin="19"/>
+    </net>
+    <net code="46" name="Net-(PI_BOARD101-Pad38)">
+      <node ref="PI_BOARD101" pin="38"/>
+    </net>
+    <net code="47" name="Net-(PI_BOARD101-Pad28)">
+      <node ref="PI_BOARD101" pin="28"/>
+    </net>
+    <net code="48" name="Net-(R201-Pad2)">
+      <node ref="SIG_ISO201" pin="3"/>
+      <node ref="R201" pin="2"/>
+      <node ref="STP201" pin="3"/>
+    </net>
+    <net code="49" name="Net-(P201-Pad2)">
+      <node ref="P201" pin="2"/>
+      <node ref="STP201" pin="6"/>
+    </net>
+    <net code="50" name="Net-(P201-Pad1)">
+      <node ref="STP201" pin="5"/>
+      <node ref="P201" pin="1"/>
+    </net>
+    <net code="51" name="Net-(DCDC201-Pad8)">
+      <node ref="DCDC201" pin="8"/>
+    </net>
+    <net code="52" name="Net-(DCDC201-Pad7)">
+      <node ref="DCDC201" pin="7"/>
+    </net>
+    <net code="53" name="Net-(DCDC201-Pad3)">
+      <node ref="DCDC201" pin="3"/>
+    </net>
+    <net code="54" name="Net-(C202-Pad2)">
+      <node ref="REG201" pin="3"/>
+      <node ref="C202" pin="2"/>
+      <node ref="DCDC201" pin="5"/>
+    </net>
+    <net code="55" name="Net-(DCDC201-Pad6)">
+      <node ref="DCDC201" pin="6"/>
+    </net>
+    <net code="56" name="Net-(R202-Pad2)">
+      <node ref="R202" pin="2"/>
+      <node ref="STP201" pin="2"/>
+      <node ref="SIG_ISO201" pin="2"/>
+    </net>
+    <net code="57" name="Net-(P301-Pad2)">
+      <node ref="STP301" pin="6"/>
+      <node ref="P301" pin="2"/>
+    </net>
+    <net code="58" name="Net-(P301-Pad1)">
+      <node ref="P301" pin="1"/>
+      <node ref="STP301" pin="5"/>
+    </net>
+    <net code="59" name="Net-(DCDC301-Pad8)">
+      <node ref="DCDC301" pin="8"/>
+    </net>
+    <net code="60" name="Net-(DCDC301-Pad7)">
+      <node ref="DCDC301" pin="7"/>
+    </net>
+    <net code="61" name="Net-(DCDC301-Pad3)">
+      <node ref="DCDC301" pin="3"/>
+    </net>
+    <net code="62" name="Net-(C302-Pad2)">
+      <node ref="C302" pin="2"/>
+      <node ref="REG301" pin="3"/>
+      <node ref="DCDC301" pin="5"/>
+    </net>
+    <net code="63" name="Net-(DCDC301-Pad6)">
+      <node ref="DCDC301" pin="6"/>
+    </net>
+    <net code="64" name="Net-(R302-Pad2)">
+      <node ref="R302" pin="2"/>
+      <node ref="SIG_ISO301" pin="2"/>
+      <node ref="STP301" pin="2"/>
+    </net>
+    <net code="65" name="Net-(R301-Pad2)">
+      <node ref="R301" pin="2"/>
+      <node ref="SIG_ISO301" pin="3"/>
+      <node ref="STP301" pin="3"/>
+    </net>
+    <net code="66" name="Net-(P401-Pad1)">
+      <node ref="P401" pin="1"/>
+      <node ref="STP401" pin="5"/>
+    </net>
+    <net code="67" name="Net-(P401-Pad2)">
+      <node ref="P401" pin="2"/>
+      <node ref="STP401" pin="6"/>
+    </net>
+  </nets>
+</export>
