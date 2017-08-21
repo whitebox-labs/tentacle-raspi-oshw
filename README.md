@@ -1,5 +1,5 @@
-# tentacle-raspi
-The Tentacle T3 for Raspberry Pi
+# The Tentacle T3 for Raspberry Pi
+
 
 ![Tentacle T3 for Raspberry Pi](https://www.whiteboxes.ch/wp-content/uploads/2016/12/t3_top.jpg)
 
